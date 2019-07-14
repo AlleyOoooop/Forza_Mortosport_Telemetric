@@ -1,0 +1,12 @@
+FORZA MOTORSPORT TELEMETRIC DISPLAY
+===================================
+
+This application can be launched on a PC which is on the same network that your XboX on which you play Forza Motorsport
+
+> You need to install Python 3 : https://www.python.org/downloads/
+
+> Double-click on FM7_Telemetre.py application : the ip and port you have to set in Forza game are displayed.
+> In Forza game, go in options > ATH menu and set them.
+> Restart the game, during the startup the data board should be displayed in fullscreen.
+
+DEMO in video here : https://youtu.be/GJ_wA2fa8Vs
